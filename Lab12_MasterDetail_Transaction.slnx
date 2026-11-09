@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Lab12_StoredProcedureCRUD/Lab12_StoredProcedureCRUD.csproj" />
+  <Project Path="Lab12.BUS/Lab12.BUS.csproj" />
+  <Project Path="Lab12.DAL/Lab12.DAL.csproj" />
+  <Project Path="Lab12.DTO/Lab12.DTO.csproj" />
+</Solution>
